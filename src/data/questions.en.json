@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "dimension": "EI",
+    "question": "At gatherings, you are usually...",
+    "option_a": {
+      "text": "An active participant",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Prefer to quietly observe",
+      "value": "I"
+    }
+  },
+  {
+    "id": 2,
+    "dimension": "EI",
+    "question": "You prefer to interact with...",
+    "option_a": {
+      "text": "A group of people",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "One or two close friends",
+      "value": "I"
+    }
+  },
+  {
+    "id": 3,
+    "dimension": "EI",
+    "question": "In unfamiliar settings, you...",
+    "option_a": {
+      "text": "Adapt quickly",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Feel uncomfortable",
+      "value": "I"
+    }
+  },
+  {
+    "id": 4,
+    "dimension": "EI",
+    "question": "You are more likely to feel...",
+    "option_a": {
+      "text": "Bored when alone",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Exhausted after socializing",
+      "value": "I"
+    }
+  },
+  {
+    "id": 5,
+    "dimension": "EI",
+    "question": "You tend to draw energy from...",
+    "option_a": {
+      "text": "The external world",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Your inner world",
+      "value": "I"
+    }
+  },
+  {
+    "id": 6,
+    "dimension": "EI",
+    "question": "You enjoy...",
+    "option_a": {
+      "text": "Meeting many new friends",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Maintaining a few close relationships",
+      "value": "I"
+    }
+  },
+  {
+    "id": 7,
+    "dimension": "EI",
+    "question": "Socializing for you is...",
+    "option_a": {
+      "text": "A source of vitality",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Requires a lot of effort",
+      "value": "I"
+    }
+  },
+  {
+    "id": 8,
+    "dimension": "EI",
+    "question": "You tend to...",
+    "option_a": {
+      "text": "Talk while doing",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Think before acting",
+      "value": "I"
+    }
+  },
+  {
+    "id": 9,
+    "dimension": "EI",
+    "question": "You prefer to...",
+    "option_a": {
+      "text": "Work in a lively environment",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Think in a quiet environment",
+      "value": "I"
+    }
+  },
+  {
+    "id": 10,
+    "dimension": "EI",
+    "question": "In a team, you are...",
+    "option_a": {
+      "text": "A natural spokesperson",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "A quiet listener",
+      "value": "I"
+    }
+  },
+  {
+    "id": 11,
+    "dimension": "EI",
+    "question": "You tend to...",
+    "option_a": {
+      "text": "Express emotions openly",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Handle emotions inwardly",
+      "value": "I"
+    }
+  },
+  {
+    "id": 12,
+    "dimension": "EI",
+    "question": "You care more about...",
+    "option_a": {
+      "text": "Others' feedback about you",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Your own feelings about things",
+      "value": "I"
+    }
+  },
+  {
+    "id": 13,
+    "dimension": "EI",
+    "question": "Your way of relaxing is...",
+    "option_a": {
+      "text": "Going out with friends",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Reading at home alone",
+      "value": "I"
+    }
+  },
+  {
+    "id": 14,
+    "dimension": "EI",
+    "question": "During activities, you...",
+    "option_a": {
+      "text": "Actively organize and participate",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Participate selectively",
+      "value": "I"
+    }
+  },
+  {
+    "id": 15,
+    "dimension": "EI",
+    "question": "You enjoy...",
+    "option_a": {
+      "text": "Expressing in public",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "Sharing ideas privately",
+      "value": "I"
+    }
+  },
+  {
+    "id": 16,
+    "dimension": "SN",
+    "question": "You focus more on...",
+    "option_a": {
+      "text": "Tangible facts",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Future possibilities",
+      "value": "N"
+    }
+  },
+  {
+    "id": 17,
+    "dimension": "SN",
+    "question": "You tend to...",
+    "option_a": {
+      "text": "Follow established methods",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Try new approaches",
+      "value": "N"
+    }
+  },
+  {
+    "id": 18,
+    "dimension": "SN",
+    "question": "You prefer...",
+    "option_a": {
+      "text": "Specific and clear instructions",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Profound concepts",
+      "value": "N"
+    }
+  },
+  {
+    "id": 19,
+    "dimension": "SN",
+    "question": "You remember things better through...",
+    "option_a": {
+      "text": "Sensory experiences",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Associations and understanding",
+      "value": "N"
+    }
+  },
+  {
+    "id": 20,
+    "dimension": "SN",
+    "question": "You trust more in...",
+    "option_a": {
+      "text": "What you see with your own eyes",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Intuitive judgment",
+      "value": "N"
+    }
+  },
+  {
+    "id": 21,
+    "dimension": "SN",
+    "question": "When thinking about problems, you...",
+    "option_a": {
+      "text": "Proceed step by step",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Think divergently",
+      "value": "N"
+    }
+  },
+  {
+    "id": 22,
+    "dimension": "SN",
+    "question": "When expressing opinions, you...",
+    "option_a": {
+      "text": "Like to use examples",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Like to discuss concepts",
+      "value": "N"
+    }
+  },
+  {
+    "id": 23,
+    "dimension": "SN",
+    "question": "The novels you prefer are...",
+    "option_a": {
+      "text": "Realistic themes",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Fantasy themes",
+      "value": "N"
+    }
+  },
+  {
+    "id": 24,
+    "dimension": "SN",
+    "question": "When making plans, you...",
+    "option_a": {
+      "text": "List every step in detail",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Start with a big picture and then refine",
+      "value": "N"
+    }
+  },
+  {
+    "id": 25,
+    "dimension": "SN",
+    "question": "You make decisions based on...",
+    "option_a": {
+      "text": "Practical feasibility",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Theoretical possibilities",
+      "value": "N"
+    }
+  },
+  {
+    "id": 26,
+    "dimension": "SN",
+    "question": "When processing information, you...",
+    "option_a": {
+      "text": "Focus on details",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Focus on the big picture",
+      "value": "N"
+    }
+  },
+  {
+    "id": 27,
+    "dimension": "SN",
+    "question": "At work, you...",
+    "option_a": {
+      "text": "Value practicality",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Value innovation",
+      "value": "N"
+    }
+  },
+  {
+    "id": 28,
+    "dimension": "SN",
+    "question": "When describing, you...",
+    "option_a": {
+      "text": "Prefer concrete descriptions",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Prefer abstract descriptions",
+      "value": "N"
+    }
+  },
+  {
+    "id": 29,
+    "dimension": "SN",
+    "question": "When thinking, you...",
+    "option_a": {
+      "text": "Focus on the current reality",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Tend to imagine multiple perspectives",
+      "value": "N"
+    }
+  },
+  {
+    "id": 30,
+    "dimension": "SN",
+    "question": "You trust more in...",
+    "option_a": {
+      "text": "Empirical data",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "Intuitive inspiration",
+      "value": "N"
+    }
+  },
+  {
+    "id": 31,
+    "dimension": "TF",
+    "question": "You focus more on...",
+    "option_a": {
+      "text": "Fairness and reason",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Harmonious relationships",
+      "value": "F"
+    }
+  },
+  {
+    "id": 32,
+    "dimension": "TF",
+    "question": "When making decisions, you...",
+    "option_a": {
+      "text": "Rely on facts",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Rely on emotions",
+      "value": "F"
+    }
+  },
+  {
+    "id": 33,
+    "dimension": "TF",
+    "question": "You are more likely to...",
+    "option_a": {
+      "text": "Engage in critical analysis",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Empathize and understand",
+      "value": "F"
+    }
+  },
+  {
+    "id": 34,
+    "dimension": "TF",
+    "question": "In conflicts, you...",
+    "option_a": {
+      "text": "Stand firm on your position",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Ease tensions",
+      "value": "F"
+    }
+  },
+  {
+    "id": 35,
+    "dimension": "TF",
+    "question": "When evaluating others, you...",
+    "option_a": {
+      "text": "Look at their reasoning",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Look at their thoughtfulness",
+      "value": "F"
+    }
+  },
+  {
+    "id": 36,
+    "dimension": "TF",
+    "question": "You value more...",
+    "option_a": {
+      "text": "Logical consistency",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Social harmony",
+      "value": "F"
+    }
+  },
+  {
+    "id": 37,
+    "dimension": "TF",
+    "question": "At work, you...",
+    "option_a": {
+      "text": "Focus on results",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Focus on the atmosphere",
+      "value": "F"
+    }
+  },
+  {
+    "id": 38,
+    "dimension": "TF",
+    "question": "When expressing, you...",
+    "option_a": {
+      "text": "Are straightforward",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Consider others' feelings",
+      "value": "F"
+    }
+  },
+  {
+    "id": 39,
+    "dimension": "TF",
+    "question": "When facing mistakes, you...",
+    "option_a": {
+      "text": "Hold people accountable",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Understand the reasons",
+      "value": "F"
+    }
+  },
+  {
+    "id": 40,
+    "dimension": "TF",
+    "question": "When making choices, you...",
+    "option_a": {
+      "text": "Analyze pros and cons rationally",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Consider others' feelings",
+      "value": "F"
+    }
+  },
+  {
+    "id": 41,
+    "dimension": "TF",
+    "question": "In a team, you...",
+    "option_a": {
+      "text": "Act as the decision-maker",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Act as the coordinator",
+      "value": "F"
+    }
+  },
+  {
+    "id": 42,
+    "dimension": "TF",
+    "question": "In communication, you...",
+    "option_a": {
+      "text": "Focus more on the task",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Focus more on emotions",
+      "value": "F"
+    }
+  },
+  {
+    "id": 43,
+    "dimension": "TF",
+    "question": "During conversations, you...",
+    "option_a": {
+      "text": "Focus on content",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Focus on tone",
+      "value": "F"
+    }
+  },
+  {
+    "id": 44,
+    "dimension": "TF",
+    "question": "In the workplace, you...",
+    "option_a": {
+      "text": "Uphold principles",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Value personal connections",
+      "value": "F"
+    }
+  },
+  {
+    "id": 45,
+    "dimension": "TF",
+    "question": "When handling conflicts, you...",
+    "option_a": {
+      "text": "Resolve rationally first",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "Soothe emotions first",
+      "value": "F"
+    }
+  },
+  {
+    "id": 46,
+    "dimension": "JP",
+    "question": "You prefer...",
+    "option_a": {
+      "text": "Planning ahead",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Flexible responses",
+      "value": "P"
+    }
+  },
+  {
+    "id": 47,
+    "dimension": "JP",
+    "question": "You feel more comfortable with...",
+    "option_a": {
+      "text": "A clear plan",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Adapting as needed",
+      "value": "P"
+    }
+  },
+  {
+    "id": 48,
+    "dimension": "JP",
+    "question": "You tend to...",
+    "option_a": {
+      "text": "Complete tasks on time",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Rush at the last minute",
+      "value": "P"
+    }
+  },
+  {
+    "id": 49,
+    "dimension": "JP",
+    "question": "You enjoy...",
+    "option_a": {
+      "text": "An orderly environment",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "A freely changing environment",
+      "value": "P"
+    }
+  },
+  {
+    "id": 50,
+    "dimension": "JP",
+    "question": "You prefer...",
+    "option_a": {
+      "text": "Following procedures",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Adapting on the fly",
+      "value": "P"
+    }
+  },
+  {
+    "id": 51,
+    "dimension": "JP",
+    "question": "When facing the unknown, you...",
+    "option_a": {
+      "text": "Prepare in advance",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Improvise",
+      "value": "P"
+    }
+  },
+  {
+    "id": 52,
+    "dimension": "JP",
+    "question": "When scheduling, you...",
+    "option_a": {
+      "text": "Plan clearly",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Adjust based on the day's mood",
+      "value": "P"
+    }
+  },
+  {
+    "id": 53,
+    "dimension": "JP",
+    "question": "When organizing things, you...",
+    "option_a": {
+      "text": "Are methodical",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Are casual but have your own system",
+      "value": "P"
+    }
+  },
+  {
+    "id": 54,
+    "dimension": "JP",
+    "question": "When handling tasks, you...",
+    "option_a": {
+      "text": "Complete one at a time",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Work on multiple simultaneously",
+      "value": "P"
+    }
+  },
+  {
+    "id": 55,
+    "dimension": "JP",
+    "question": "When shopping, you...",
+    "option_a": {
+      "text": "Make a list",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Browse and decide",
+      "value": "P"
+    }
+  },
+  {
+    "id": 56,
+    "dimension": "JP",
+    "question": "You are more likely to...",
+    "option_a": {
+      "text": "Make decisions",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Delay decisions",
+      "value": "P"
+    }
+  },
+  {
+    "id": 57,
+    "dimension": "JP",
+    "question": "Your preferred way of traveling is...",
+    "option_a": {
+      "text": "Planned in advance",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Spontaneous",
+      "value": "P"
+    }
+  },
+  {
+    "id": 58,
+    "dimension": "JP",
+    "question": "Your approach to tasks is more...",
+    "option_a": {
+      "text": "Goal-oriented",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Process-oriented",
+      "value": "P"
+    }
+  },
+  {
+    "id": 59,
+    "dimension": "JP",
+    "question": "When facing problems, you...",
+    "option_a": {
+      "text": "Decide first",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Observe first",
+      "value": "P"
+    }
+  },
+  {
+    "id": 60,
+    "dimension": "JP",
+    "question": "Your lifestyle is...",
+    "option_a": {
+      "text": "Structured",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "Flexible",
+      "value": "P"
+    }
+  }
+]

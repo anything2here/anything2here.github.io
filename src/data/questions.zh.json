@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "dimension": "EI",
+    "question": "你在聚会中通常是...",
+    "option_a": {
+      "text": "活跃的参与者",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "喜欢安静地观察",
+      "value": "I"
+    }
+  },
+  {
+    "id": 2,
+    "dimension": "EI",
+    "question": "你更喜欢与...",
+    "option_a": {
+      "text": "一群人交往",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "一两个朋友深入交流",
+      "value": "I"
+    }
+  },
+  {
+    "id": 3,
+    "dimension": "EI",
+    "question": "在陌生场合你...",
+    "option_a": {
+      "text": "很快能适应",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "感到不自在",
+      "value": "I"
+    }
+  },
+  {
+    "id": 4,
+    "dimension": "EI",
+    "question": "你更容易感到...",
+    "option_a": {
+      "text": "独处会无聊",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "社交后疲惫",
+      "value": "I"
+    }
+  },
+  {
+    "id": 5,
+    "dimension": "EI",
+    "question": "你习惯从...",
+    "option_a": {
+      "text": "外部世界汲取能量",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "内在世界获取能量",
+      "value": "I"
+    }
+  },
+  {
+    "id": 6,
+    "dimension": "EI",
+    "question": "你喜欢...",
+    "option_a": {
+      "text": "结识很多新朋友",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "维系少数亲密关系",
+      "value": "I"
+    }
+  },
+  {
+    "id": 7,
+    "dimension": "EI",
+    "question": "社交对你来说是...",
+    "option_a": {
+      "text": "充满活力的来源",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "需要花费很多精力",
+      "value": "I"
+    }
+  },
+  {
+    "id": 8,
+    "dimension": "EI",
+    "question": "你倾向于...",
+    "option_a": {
+      "text": "边做边说",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "三思而后行",
+      "value": "I"
+    }
+  },
+  {
+    "id": 9,
+    "dimension": "EI",
+    "question": "你更愿意...",
+    "option_a": {
+      "text": "在热闹环境中工作",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "在安静环境中思考",
+      "value": "I"
+    }
+  },
+  {
+    "id": 10,
+    "dimension": "EI",
+    "question": "你在团队中是...",
+    "option_a": {
+      "text": "自然的发言人",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "安静的倾听者",
+      "value": "I"
+    }
+  },
+  {
+    "id": 11,
+    "dimension": "EI",
+    "question": "你倾向于...",
+    "option_a": {
+      "text": "外放表达情绪",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "内敛处理情绪",
+      "value": "I"
+    }
+  },
+  {
+    "id": 12,
+    "dimension": "EI",
+    "question": "你更在意...",
+    "option_a": {
+      "text": "他人对你的反馈",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "自己对事情的感受",
+      "value": "I"
+    }
+  },
+  {
+    "id": 13,
+    "dimension": "EI",
+    "question": "你放松的方式是...",
+    "option_a": {
+      "text": "与朋友一起出门",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "独自在家看书",
+      "value": "I"
+    }
+  },
+  {
+    "id": 14,
+    "dimension": "EI",
+    "question": "你在活动中...",
+    "option_a": {
+      "text": "主动组织和参与",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "选择性参与",
+      "value": "I"
+    }
+  },
+  {
+    "id": 15,
+    "dimension": "EI",
+    "question": "你喜欢...",
+    "option_a": {
+      "text": "在公开场合表达",
+      "value": "E"
+    },
+    "option_b": {
+      "text": "私下表达想法",
+      "value": "I"
+    }
+  },
+  {
+    "id": 16,
+    "dimension": "SN",
+    "question": "你更注重...",
+    "option_a": {
+      "text": "现实可见的事实",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "未来的可能性",
+      "value": "N"
+    }
+  },
+  {
+    "id": 17,
+    "dimension": "SN",
+    "question": "你倾向于...",
+    "option_a": {
+      "text": "遵循已有方法",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "尝试新思路",
+      "value": "N"
+    }
+  },
+  {
+    "id": 18,
+    "dimension": "SN",
+    "question": "你更喜欢...",
+    "option_a": {
+      "text": "具体明确的指令",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "含义深远的理念",
+      "value": "N"
+    }
+  },
+  {
+    "id": 19,
+    "dimension": "SN",
+    "question": "你记东西更好是...",
+    "option_a": {
+      "text": "通过感官体验",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "通过联想和理解",
+      "value": "N"
+    }
+  },
+  {
+    "id": 20,
+    "dimension": "SN",
+    "question": "你更信任...",
+    "option_a": {
+      "text": "亲眼所见",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "直觉判断",
+      "value": "N"
+    }
+  },
+  {
+    "id": 21,
+    "dimension": "SN",
+    "question": "你思考问题时...",
+    "option_a": {
+      "text": "按部就班",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "跳跃发散",
+      "value": "N"
+    }
+  },
+  {
+    "id": 22,
+    "dimension": "SN",
+    "question": "你表达观点时...",
+    "option_a": {
+      "text": "喜欢讲例子",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "喜欢讲概念",
+      "value": "N"
+    }
+  },
+  {
+    "id": 23,
+    "dimension": "SN",
+    "question": "你更喜欢的小说是...",
+    "option_a": {
+      "text": "现实题材",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "幻想题材",
+      "value": "N"
+    }
+  },
+  {
+    "id": 24,
+    "dimension": "SN",
+    "question": "你做计划时...",
+    "option_a": {
+      "text": "详细列出每一步",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "先有大方向再细化",
+      "value": "N"
+    }
+  },
+  {
+    "id": 25,
+    "dimension": "SN",
+    "question": "你做决定更依赖...",
+    "option_a": {
+      "text": "实际可行性",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "理论可能性",
+      "value": "N"
+    }
+  },
+  {
+    "id": 26,
+    "dimension": "SN",
+    "question": "你处理信息时...",
+    "option_a": {
+      "text": "注意细节",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "关注整体",
+      "value": "N"
+    }
+  },
+  {
+    "id": 27,
+    "dimension": "SN",
+    "question": "你工作中...",
+    "option_a": {
+      "text": "重实践",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "重创新",
+      "value": "N"
+    }
+  },
+  {
+    "id": 28,
+    "dimension": "SN",
+    "question": "你在描述时...",
+    "option_a": {
+      "text": "偏具体描述",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "偏抽象描述",
+      "value": "N"
+    }
+  },
+  {
+    "id": 29,
+    "dimension": "SN",
+    "question": "你思考时...",
+    "option_a": {
+      "text": "注重现实情况",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "倾向多角度想象",
+      "value": "N"
+    }
+  },
+  {
+    "id": 30,
+    "dimension": "SN",
+    "question": "你更信赖...",
+    "option_a": {
+      "text": "经验数据",
+      "value": "S"
+    },
+    "option_b": {
+      "text": "直觉灵感",
+      "value": "N"
+    }
+  },
+  {
+    "id": 31,
+    "dimension": "TF",
+    "question": "你更注重...",
+    "option_a": {
+      "text": "公平合理",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "和谐关系",
+      "value": "F"
+    }
+  },
+  {
+    "id": 32,
+    "dimension": "TF",
+    "question": "做决定时...",
+    "option_a": {
+      "text": "以事实为依据",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "以情感为依据",
+      "value": "F"
+    }
+  },
+  {
+    "id": 33,
+    "dimension": "TF",
+    "question": "你更容易...",
+    "option_a": {
+      "text": "批判分析",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "共情理解",
+      "value": "F"
+    }
+  },
+  {
+    "id": 34,
+    "dimension": "TF",
+    "question": "你在冲突中...",
+    "option_a": {
+      "text": "坚持立场",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "缓和矛盾",
+      "value": "F"
+    }
+  },
+  {
+    "id": 35,
+    "dimension": "TF",
+    "question": "你评价别人...",
+    "option_a": {
+      "text": "看是否讲理",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "看是否体贴",
+      "value": "F"
+    }
+  },
+  {
+    "id": 36,
+    "dimension": "TF",
+    "question": "你更重视...",
+    "option_a": {
+      "text": "逻辑一致",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "人情世故",
+      "value": "F"
+    }
+  },
+  {
+    "id": 37,
+    "dimension": "TF",
+    "question": "你在工作中...",
+    "option_a": {
+      "text": "注重结果",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "注重氛围",
+      "value": "F"
+    }
+  },
+  {
+    "id": 38,
+    "dimension": "TF",
+    "question": "你表达时...",
+    "option_a": {
+      "text": "直截了当",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "照顾他人感受",
+      "value": "F"
+    }
+  },
+  {
+    "id": 39,
+    "dimension": "TF",
+    "question": "你面对失误...",
+    "option_a": {
+      "text": "追究责任",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "理解原因",
+      "value": "F"
+    }
+  },
+  {
+    "id": 40,
+    "dimension": "TF",
+    "question": "你在做选择时...",
+    "option_a": {
+      "text": "理性分析利弊",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "考虑他人感受",
+      "value": "F"
+    }
+  },
+  {
+    "id": 41,
+    "dimension": "TF",
+    "question": "你在团队中...",
+    "option_a": {
+      "text": "当决策者",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "做协调者",
+      "value": "F"
+    }
+  },
+  {
+    "id": 42,
+    "dimension": "TF",
+    "question": "你沟通中...",
+    "option_a": {
+      "text": "更关注任务",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "更关注情绪",
+      "value": "F"
+    }
+  },
+  {
+    "id": 43,
+    "dimension": "TF",
+    "question": "你在谈话时...",
+    "option_a": {
+      "text": "重内容",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "重语气",
+      "value": "F"
+    }
+  },
+  {
+    "id": 44,
+    "dimension": "TF",
+    "question": "你在职场中...",
+    "option_a": {
+      "text": "讲原则",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "讲人情",
+      "value": "F"
+    }
+  },
+  {
+    "id": 45,
+    "dimension": "TF",
+    "question": "你处理冲突时...",
+    "option_a": {
+      "text": "先理性解决",
+      "value": "T"
+    },
+    "option_b": {
+      "text": "先安抚情绪",
+      "value": "F"
+    }
+  },
+  {
+    "id": 46,
+    "dimension": "JP",
+    "question": "你偏好...",
+    "option_a": {
+      "text": "提前计划",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "灵活应对",
+      "value": "P"
+    }
+  },
+  {
+    "id": 47,
+    "dimension": "JP",
+    "question": "你觉得更舒服的是...",
+    "option_a": {
+      "text": "有明确计划",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "随时调整",
+      "value": "P"
+    }
+  },
+  {
+    "id": 48,
+    "dimension": "JP",
+    "question": "你更倾向...",
+    "option_a": {
+      "text": "按时完成任务",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "临时冲刺也行",
+      "value": "P"
+    }
+  },
+  {
+    "id": 49,
+    "dimension": "JP",
+    "question": "你喜欢...",
+    "option_a": {
+      "text": "有秩序的环境",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "自由变化的环境",
+      "value": "P"
+    }
+  },
+  {
+    "id": 50,
+    "dimension": "JP",
+    "question": "你更喜欢...",
+    "option_a": {
+      "text": "按流程办事",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "随机应变",
+      "value": "P"
+    }
+  },
+  {
+    "id": 51,
+    "dimension": "JP",
+    "question": "你面对未知时...",
+    "option_a": {
+      "text": "提前准备",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "即兴发挥",
+      "value": "P"
+    }
+  },
+  {
+    "id": 52,
+    "dimension": "JP",
+    "question": "你安排日程...",
+    "option_a": {
+      "text": "计划清晰",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "根据当天状态调整",
+      "value": "P"
+    }
+  },
+  {
+    "id": 53,
+    "dimension": "JP",
+    "question": "你在整理东西时...",
+    "option_a": {
+      "text": "有条理",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "随意但有自己系统",
+      "value": "P"
+    }
+  },
+  {
+    "id": 54,
+    "dimension": "JP",
+    "question": "你处理任务时...",
+    "option_a": {
+      "text": "一次完成",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "多个并行",
+      "value": "P"
+    }
+  },
+  {
+    "id": 55,
+    "dimension": "JP",
+    "question": "你购物时...",
+    "option_a": {
+      "text": "列清单",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "边逛边看",
+      "value": "P"
+    }
+  },
+  {
+    "id": 56,
+    "dimension": "JP",
+    "question": "你更容易...",
+    "option_a": {
+      "text": "做决定",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "拖延决策",
+      "value": "P"
+    }
+  },
+  {
+    "id": 57,
+    "dimension": "JP",
+    "question": "你喜欢的旅行方式...",
+    "option_a": {
+      "text": "事先安排好",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "说走就走",
+      "value": "P"
+    }
+  },
+  {
+    "id": 58,
+    "dimension": "JP",
+    "question": "你做事更...",
+    "option_a": {
+      "text": "目标导向",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "过程导向",
+      "value": "P"
+    }
+  },
+  {
+    "id": 59,
+    "dimension": "JP",
+    "question": "你面对问题...",
+    "option_a": {
+      "text": "先做决定",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "先观察",
+      "value": "P"
+    }
+  },
+  {
+    "id": 60,
+    "dimension": "JP",
+    "question": "你生活节奏...",
+    "option_a": {
+      "text": "结构化",
+      "value": "J"
+    },
+    "option_b": {
+      "text": "自由化",
+      "value": "P"
+    }
+  }
+]
